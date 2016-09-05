@@ -1,0 +1,58 @@
+C:\Users\Artem\YandexDisk\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\bin\Debug\bit_reversal.exe.config
+C:\Users\Artem\YandexDisk\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.csprojResolveAssemblyReference.cache
+C:\Users\Artem\YandexDisk\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.Form1.resources
+C:\Users\Artem\YandexDisk\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.Properties.Resources.resources
+C:\Users\Artem\YandexDisk\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.csproj.GenerateResource.Cache
+C:\Users\Artem\YandexDisk\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\bin\Debug\bit_reversal.exe
+C:\Users\Artem\YandexDisk\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\bin\Debug\bit_reversal.pdb
+C:\Users\Artem\YandexDisk\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.exe
+C:\Users\Artem\YandexDisk\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.pdb
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\bin\Debug\bit_reversal.exe.config
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.exe
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.pdb
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\bin\Debug\bit_reversal.exe
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\bin\Debug\bit_reversal.pdb
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.csprojResolveAssemblyReference.cache
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.Form1.resources
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.Properties.Resources.resources
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.csproj.GenerateResource.Cache
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.FindForm.resources
+C:\Users\Artem\YandexDisk\УНИВЕРСИТЕТ\C#\3 КУРС\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.HideForm.resources
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\bin\Debug\bit_reversal.exe.config
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\obj\Debug\bit_reversal.exe
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\obj\Debug\bit_reversal.pdb
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\obj\Debug\bit_reversal.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\obj\Debug\bit_reversal.FindForm.resources
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\obj\Debug\bit_reversal.Form1.resources
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\obj\Debug\bit_reversal.HideForm.resources
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\obj\Debug\bit_reversal.Properties.Resources.resources
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\obj\Debug\bit_reversal.csproj.GenerateResource.Cache
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\bin\Debug\bit_reversal.exe
+C:\Users\Artem\Desktop\bit_reversal\bit_reversal\bin\Debug\bit_reversal.pdb
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\bin\Debug\bit_reversal.exe.config
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.exe
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.pdb
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\bin\Debug\bit_reversal.exe
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\bin\Debug\bit_reversal.pdb
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.csprojResolveAssemblyReference.cache
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.FindForm.resources
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.HideForm.resources
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.Properties.Resources.resources
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.csproj.GenerateResource.Cache
+C:\Users\Artem\Desktop\Курсовая\bit_reversal\bit_reversal\obj\Debug\bit_reversal.ReverseForm.resources
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\bin\Debug\bit_reversal.exe.config
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.exe
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.pdb
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\bin\Debug\bit_reversal.exe
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\bin\Debug\bit_reversal.pdb
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.csprojResolveAssemblyReference.cache
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.FindForm.resources
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.ReverseForm.resources
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.HideForm.resources
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.Properties.Resources.resources
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.csproj.GenerateResource.Cache
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.NoiseForm.resources
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\bin\Debug\MySql.Data.dll
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.FormAutent.resources
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.MainForm.resources
+C:\Users\gglcrash\Desktop\Курсач\bit_reversal\bit_reversal\obj\Debug\bit_reversal.FormReg.resources
