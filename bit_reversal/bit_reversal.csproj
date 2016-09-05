@@ -46,72 +46,72 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FindForm.cs">
+    <Compile Include="Forms\FindForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FindForm.Designer.cs">
+    <Compile Include="Forms\FindForm.Designer.cs">
       <DependentUpon>FindForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormAutent.cs">
+    <Compile Include="Forms\FormAutent.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormAutent.Designer.cs">
+    <Compile Include="Forms\FormAutent.Designer.cs">
       <DependentUpon>FormAutent.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormReg.cs">
+    <Compile Include="Forms\FormReg.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormReg.Designer.cs">
+    <Compile Include="Forms\FormReg.Designer.cs">
       <DependentUpon>FormReg.cs</DependentUpon>
     </Compile>
-    <Compile Include="ImageHashing.cs" />
-    <Compile Include="MainForm.cs">
+    <Compile Include="Utils\ImageHashing.cs" />
+    <Compile Include="Forms\MainForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="MainForm.Designer.cs">
+    <Compile Include="Forms\MainForm.Designer.cs">
       <DependentUpon>MainForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="mysqlClass.cs" />
-    <Compile Include="NoiseForm.cs">
+    <Compile Include="Utils\mysqlClass.cs" />
+    <Compile Include="Forms\NoiseForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="NoiseForm.Designer.cs">
+    <Compile Include="Forms\NoiseForm.Designer.cs">
       <DependentUpon>NoiseForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="ReverseForm.cs">
+    <Compile Include="Forms\ReverseForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ReverseForm.Designer.cs">
+    <Compile Include="Forms\ReverseForm.Designer.cs">
       <DependentUpon>ReverseForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="HideForm.cs">
+    <Compile Include="Forms\HideForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="HideForm.Designer.cs">
+    <Compile Include="Forms\HideForm.Designer.cs">
       <DependentUpon>HideForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="LockBitmap.cs" />
-    <EmbeddedResource Include="FindForm.resx">
+    <Compile Include="Utils\LockBitmap.cs" />
+    <EmbeddedResource Include="Forms\FindForm.resx">
       <DependentUpon>FindForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormAutent.resx">
+    <EmbeddedResource Include="Forms\FormAutent.resx">
       <DependentUpon>FormAutent.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormReg.resx">
+    <EmbeddedResource Include="Forms\FormReg.resx">
       <DependentUpon>FormReg.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="MainForm.resx">
+    <EmbeddedResource Include="Forms\MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="NoiseForm.resx">
+    <EmbeddedResource Include="Forms\NoiseForm.resx">
       <DependentUpon>NoiseForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReverseForm.resx">
+    <EmbeddedResource Include="Forms\ReverseForm.resx">
       <DependentUpon>ReverseForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="HideForm.resx">
+    <EmbeddedResource Include="Forms\HideForm.resx">
       <DependentUpon>HideForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
